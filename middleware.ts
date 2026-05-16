@@ -1,3 +1,4 @@
+// IT-S ID1 auth — deployed 2026-05-16T07:13:33Z
 export const config = {
   matcher: '/((?!assets|_vercel|favicon\\.ico).*)'
 }
